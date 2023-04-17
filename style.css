@@ -145,7 +145,7 @@ h1 {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 25px;
   margin-top: 40px;
 }
 
@@ -346,6 +346,7 @@ button {
     justify-content: right;
     padding-right: 48px;
     padding-left: 48px;
+    gap: 25px;
   }
   .page {
     position: absolute;
